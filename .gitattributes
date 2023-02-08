@@ -1,0 +1,15 @@
+capture1/HallWide.mp4 filter=lfs diff=lfs merge=lfs -text
+capture1/PC.mp4 filter=lfs diff=lfs merge=lfs -text
+capture1/PF.mp4 filter=lfs diff=lfs merge=lfs -text
+capture1/Showroom.mp4 filter=lfs diff=lfs merge=lfs -text
+capture1/HallSeg.mp4 filter=lfs diff=lfs merge=lfs -text
+capture2/Showroom.mp4 filter=lfs diff=lfs merge=lfs -text
+capture2/HallSeg.mp4 filter=lfs diff=lfs merge=lfs -text
+capture2/HallWide.mp4 filter=lfs diff=lfs merge=lfs -text
+capture2/PC.mp4 filter=lfs diff=lfs merge=lfs -text
+capture2/PF.mp4 filter=lfs diff=lfs merge=lfs -text
+capture3/HallSeg.mp4 filter=lfs diff=lfs merge=lfs -text
+capture3/HallWide.mp4 filter=lfs diff=lfs merge=lfs -text
+capture3/PC.mp4 filter=lfs diff=lfs merge=lfs -text
+capture3/PF.mp4 filter=lfs diff=lfs merge=lfs -text
+capture3/Showroom.mp4 filter=lfs diff=lfs merge=lfs -text
