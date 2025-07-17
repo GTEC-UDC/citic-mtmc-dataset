@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the following paper."
+title: "Multicamera edge-computing system for persons indoor location and tracking"
+authors:
+  - family-names: Carro-Lagoa
+    given-names: Ángel
+    orcid: "https://orcid.org/0000-0001-5513-7969"
+  - family-names: Barral
+    given-names: Valentín
+    orcid: "https://orcid.org/0000-0001-8750-7960"
+  - family-names: González-López
+    given-names: Miguel
+    orcid: "https://orcid.org/0000-0002-0197-1955"
+  - family-names: Escudero
+    given-names: Carlos J.
+    orcid: "https://orcid.org/0000-0002-3877-1332"
+  - family-names: Castedo
+    given-names: Luis
+    orcid: "https://orcid.org/0000-0002-3801-012X"
+date-released: 2023-09-12
+doi: 10.1016/j.iot.2023.100940
+url: https://www.sciencedirect.com/science/article/pii/S2542660523002639
+version: "1.0.0"
+type: article
+journal: Internet of Things
+volume: 24
+pages: 100940
