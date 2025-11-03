@@ -1,5 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite the following paper."
+type: dataset
+doi: 10.5281/zenodo.17511785
 title: "CITIC-MTMC dataset"
 authors:
   - family-names: Carro-Lagoa
@@ -18,6 +20,11 @@ authors:
     given-names: Luis
     orcid: "https://orcid.org/0000-0002-3801-012X"
 url: https://github.com/GTEC-UDC/citic-mtmc-dataset
+repository-code: 'https://github.com/GTEC-UDC/citic-mtmc-dataset'
+abstract: >
+  This repository contains the CITIC-MTMC dataset. A multi-target multi-camera video dataset for indoor location and tracking of people.
+
+  The recordings were carried out inside the CITIC research center. Five cameras were deployed in four spaces of the building: an entrance hall with two cameras (HallWide, HallSeg), two passageways with one camera each (PF and PC), and a showroom with one camera (Showroom).
 license: CC-BY-NC-SA-4.0
 preferred-citation:
   type: article
