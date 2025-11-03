@@ -4,6 +4,9 @@ This repository contains the CITIC-MTMC dataset. A multi-target multi-camera vid
 
 The recordings were carried out inside the CITIC research center. Five cameras were deployed in four spaces of the building: an entrance hall with two cameras (*HallWide*, *HallSeg*), two passageways with one camera each (*PF* and *PC*), and a showroom with one camera (*Showroom*).
 
+> [!NOTE]
+> *Dataset Access*: The dataset videos are permanently archived on [Zenodo](https://zenodo.org/records/17512043). DOI: [10.5281/zenodo.17511785](https://doi.org/10.5281/zenodo.17511785)
+
 ### Ground-truth obtention
 
 A system based on discrete waypoints was established to obtain the ground-truth positions of each person during the capture. These waypoints were graphic marks placed on the building floor at predetermined and known positions. Each person carries a smartphone with an application that sends a notification to a server when the person is just above one of these waypoints.
